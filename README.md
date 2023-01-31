@@ -1,4 +1,4 @@
-#Getting Started
+##Getting Started
 
 **How to start application in local environment**
 
@@ -13,14 +13,14 @@ Most probably the application may run in http://127.0.0.1:8000
 
 * Please review API docs 
 
-#Database Setup
+##Database Setup
 
 * Create MySQL database with name 'books'.
 * create .env file with the content in .env.example
 * Then run 'php artisan migrate' command to create the tables in the database
  
 
-#Populate Data
+##Populate Data
 
 
 * To populate data to database books table from https://fakerapi.it/api/v1/books?_quantity=100, we should run 
